@@ -1,0 +1,8 @@
+{
+  "name": "chatApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6fdef143"
+}
